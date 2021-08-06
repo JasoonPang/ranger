@@ -747,6 +747,8 @@
                         <configuration>
                             <nodeVersion>v8.12.0</nodeVersion>
                             <npmVersion>6.4.1</npmVersion>
+                            <nodeDownloadRoot>https://npm.taobao.org/mirrors/node/</nodeDownloadRoot>
+                            <npmDownloadRoot>https://registry.npm.taobao.org/npm/-/</npmDownloadRoot>
                         </configuration>
                     </execution>
                     <execution>
